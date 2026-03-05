@@ -5,7 +5,7 @@ game 'gta5'
 
 --[[ Resource Information ]]--
 name 'rahe-slipstream'
-author 'Custom Integration'
+author 'Coutz'
 description 'Slipstream/Drafting system integrated with rahe-racing. Only active during races.'
 version '1.0.0'
 
